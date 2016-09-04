@@ -1,0 +1,26 @@
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\industrialGeneral_wform.exe.config
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\industrialGeneral_wform.exe
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\industrialGeneral_wform.pdb
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\Facebook.dll
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\Facebook.Winforms.dll
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.csprojResolveAssemblyReference.cache
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.Form1.resources
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.Properties.Resources.resources
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.csproj.GenerateResource.Cache
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.exe
+c:\users\sonbi\documents\visual studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.pdb
+C:\Users\sonbi\Documents\Visual Studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\HtmlAgilityPack.dll
+C:\Users\sonbi\Documents\Visual Studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\sonbi\Documents\Visual Studio 2015\Projects\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\HtmlAgilityPack.xml
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\industrialGeneral_wform.exe.config
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.exe
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.pdb
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\industrialGeneral_wform.exe
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\industrialGeneral_wform.pdb
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\HtmlAgilityPack.dll
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\bin\Debug\HtmlAgilityPack.xml
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.csprojResolveAssemblyReference.cache
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.Form1.resources
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.Properties.Resources.resources
+C:\Users\sonbi\Source\Repos\IndustrialGeneral_wform\industrialGeneral_wform\industrialGeneral_wform\obj\Debug\industrialGeneral_wform.csproj.GenerateResource.Cache
